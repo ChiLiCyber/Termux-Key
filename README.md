@@ -7,10 +7,10 @@ Is a tool for add modification keys to your Termux app.
 * `$ pkg update && pkg upgrade`
 * `$ pkg install python`
 * `$ pkg install git`
-* `$ git clone https://github.com/karjok/terkey`
+* `$ git clone https://github.com/ChiLiCyber/Termux-Key`
 * `$ cd terkey`
 * `$ python terkey.py && cp .termux $HOME/.termux`
 
 ## Simple Code
 
-```pkg update && pkg upgrade;pkg install python git;git clone https://github.com/karjok/terkey;cd terkey;python terkey.py;cp termux.properties $HOME/.termux```
+```pkg update && pkg upgrade;pkg install python git;git clone https://github.com/ChiLiCyber/Termux-Key;cd terkey;python terkey.py;cp termux.properties $HOME/.termux```
